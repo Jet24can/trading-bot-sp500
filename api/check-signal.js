@@ -1,3 +1,4 @@
+// v2.0 - MACD + Bollinger
 export default async function handler(req, res) {
   try {
     // 1. Obtener datos del S&P 500
